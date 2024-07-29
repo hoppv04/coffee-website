@@ -1,6 +1,7 @@
+import AppBanner from "./components/AppBanner/AppBanner";
 import Hero from "./components/Hero/Hero";
 import Services from "./components/Services/Services";
-import WhereToBuy from "./WhereToBuy/WhereToBuy";
+import WhereToBuy from "./components/WhereToBuy/WhereToBuy";
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <Hero />
       <Services />
       <WhereToBuy />
+      <AppBanner />
     </div>
   );
 };
