@@ -25,7 +25,7 @@ const Footer = () => {
             }}
             className="space-y-6"
           >
-            <h1 className="text-3xl font-bold uppercase">Coders Cafe</h1>
+            <h1 className="text-3xl font-bold uppercase">Heart Cafe</h1>
             <p className="text-sm max-w-[300px]">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Quibusdam, dignissimos. Molestias saepe quas tempora deserunt
